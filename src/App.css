@@ -24,7 +24,7 @@ body {
 
 .title-container {
   height: 90vh;
-  background: url("img/sun.jpg") center center no-repeat;
+  background: url("img/img.png") center center no-repeat;
   background-size: cover;
   display: flex;
   align-items: center;
